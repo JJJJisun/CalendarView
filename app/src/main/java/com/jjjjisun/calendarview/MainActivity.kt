@@ -22,6 +22,7 @@ class MainActivity : AppCompatActivity() {
             diaryTextView.text = String.format("%d / %d / %d", year, month + 1, dayOfMonth)
             contextEdit.setText("")
 
+
         }
 
 
